@@ -1,0 +1,155 @@
+body {
+    background-image: url("../img/TEBAK\ GAMBAR\ LETS\ GO.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+body.outro{
+    background-image: url("../img/SELAMAT\ ANDA\ MENANG.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+body.soal1 {
+    background-image: url("../img/pngtree-scenic-spots-and-historic-sites-image_988588.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+p {
+    font-size: 50px;
+    
+    height: 70px;
+    width: 200px;
+    margin: 0;
+    margin-left: 90%;
+    margin-top: 70px;
+}
+
+.title {
+    margin-left: 30px;
+    margin-top: 5px;
+    position: fixed;
+    font-size: 3rem;    
+}
+
+.btn {
+    background-color: #0f8ecd;
+    padding: 5px 40px;
+    border: black;
+    text-decoration: none;
+    color: black;
+    border-radius: 10px;
+    font-size: 2rem;
+}
+
+.btn-play {
+    position: fixed;
+    margin-left: 60%;
+    margin-top: 25%;
+    box-shadow: 1px 2px 5px black;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.soal-container {
+    width: 100%;
+    margin-top: 75px;
+    text-align: center;    
+}
+
+.img-soal {
+    width: 5o0px;
+    height: 320px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50px;
+}
+
+.input-soal {
+    margin-top: 30px;
+    max-width: 30%;
+    max-height: 55px;
+    font-size: 2rem ;
+    border-radius: 60px;
+}
+
+.btn-answer {
+    height: 50px;
+}
+
+.wrong-answer-notice {
+    color: red;
+    font-size: 2rem;
+}
+
+body.soal2 {
+    background-image: url("../img/pngtree-scenic-spots-and-historic-sites-image_988588.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+body.soal3 {
+    background-image: url("../img/pngtree-scenic-spots-and-historic-sites-image_988588.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+body.soal4 {
+    background-image: url("../img/pngtree-scenic-spots-and-historic-sites-image_988588.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+body.soal5 {
+    background-image: url("../img/pngtree-scenic-spots-and-historic-sites-image_988588.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+body.soal6 {
+    background-image: url("../img/pngtree-scenic-spots-and-historic-sites-image_988588.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+body.soal7 {
+    background-image: url("../img/pngtree-scenic-spots-and-historic-sites-image_988588.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+body.soal8 {
+    background-image: url("../img/pngtree-scenic-spots-and-historic-sites-image_988588.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+body.soal9 {
+    background-image: url("../img/pngtree-scenic-spots-and-historic-sites-image_988588.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+body.soal10 {
+    background-image: url("../img/pngtree-scenic-spots-and-historic-sites-image_988588.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+body.soal10 {
+    background-image: url("../img/pngtree-scenic-spots-and-historic-sites-image_988588.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+ol{
+    margin-left: 50%;
+}
